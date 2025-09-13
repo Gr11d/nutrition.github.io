@@ -1,0 +1,10 @@
+title: "Nutritionist Melbourne"
+description: "Expert advice on health, diet, and nutrition in Melbourne"
+author: "Nutritionist Melbourne"
+baseurl: ""
+url: "https://nutritionistmelbourne.com"
+
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
